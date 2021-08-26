@@ -35,7 +35,6 @@ Now, I'm spending my days learning code. As a woman I can contribuit to build a 
 - React Router
 - Cypress
 - Mocha & Chai (Testing tools)???
-- NPM ?????
 - Fetch API 
 - ESLint
 
